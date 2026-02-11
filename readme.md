@@ -2,7 +2,7 @@
 
 A premium, production-ready developer portfolio built with **React + Vite + Bootstrap + Framer Motion**.
 
-🔗 **Live:** [Coming soon on Render]
+🔗 **Live:** [kaartikarora-dev.onrender.com](https://kaartikarora-dev.onrender.com)
 
 ## ✨ Features
 
